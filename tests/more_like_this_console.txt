@@ -1,0 +1,102 @@
+DELETE index_with_custom_analyser
+
+PUT index_with_custom_analyser
+{
+  "mappings": {
+    "properties": {
+      "message": {
+        "type": "text",
+        "analyzer": "custom_analyzer"
+      }
+    }
+  },
+  "settings":{
+    "analysis":{
+      "analyzer": {
+        "custom_analyzer": {
+          "tokenizer": "whitespace",
+          "filter":["lowercase"]
+        }
+      }
+    }
+  }
+}
+
+POST index_with_custom_analyser/_doc/1
+{ "message": "This is a message with W" }
+
+POST index_with_custom_analyser/_doc/2
+{ "message": "This is a message with W#" }
+
+POST index_with_custom_analyser/_doc/3
+{ "message": "This is a message with .NET" }
+
+POST index_with_custom_analyser/_doc/4
+{ "message": "This is a message with NET" }
+
+POST index_with_custom_analyser/_doc/5
+{ "message": "This is a message with C" }
+
+POST index_with_custom_analyser/_doc/6
+{ "message": "This is a message with C#" }
+
+POST index_with_custom_analyser/_doc/7
+{ "message": "This is a document with C#" }
+
+GET index_with_custom_analyser/_search
+{
+  "query": {
+    "match": {
+      "message": "W#"
+    }
+  }
+}
+
+GET index_with_custom_analyser/_search
+{
+  "query": {
+    "more_like_this": {
+      "fields": ["message"],
+      "like": [
+        {
+          "_index": "index_with_custom_analyser",
+          "_id": "1"
+        }
+      ],
+      "min_term_freq": 1,
+      "max_query_terms": 12
+    }
+  }
+}
+
+GET index_with_custom_analyser/_search
+{
+  "query": {
+    "more_like_this": {
+      "fields": ["message"],
+      "like": [
+        {
+          "doc": {
+            "message": "message C#"
+          }
+        }
+      ],
+      "min_term_freq": 1,
+      "max_query_terms": 12
+    }
+  }
+}
+
+GET index_with_custom_analyser/_search
+{
+  "query": {
+    "more_like_this": {
+      "fields": ["message"],
+      "like": "message C#",
+      "min_term_freq": 1,
+      "max_query_terms": 12
+    }
+  }
+}
+
+DELETE index_without_custom_analyser

@@ -1,0 +1,308 @@
+[
+    {
+        "ID": "1",
+        "Birthday": "27.02.1964",
+        "Examination_date": "11.02.2020",
+        "Referral_data": "Dry cough. Dyspnea on exertion, during daily activities. Weakness. Falls. Fatigue. Muscular dystrophy. Bronchiectasis. Band-like pulmonary fibrosis and pleural thickening. Dry eye syndrome. Hypertension. Pigeon breeding at home.",
+        "Description": "In the upper parts of the lungs, mainly in the apices and subapical regions, numerous small irregular and nodular consolidations located subpleurally and peribronchially, linear septal and non-septal consolidations, local bronchial lumen enlargement near the changes, in the right segment II discrete peribronchial ground-glass opacities. Similar smaller segmental consolidations are visible dorsally in the VI segments. No changes were found in the remaining parts of the lungs. Mediastinal lymph nodes are not enlarged. Calcifications in the bronchial walls.",
+        "Radiologist_diagnosis": "In the differential diagnosis, infectious changes should be considered first, including tuberculosis and MOTT (mycobacteria other than tuberculosis).",
+        "Final_diagnosis": "HP (hypersensitivity pneumonitis)."
+    },
+    {
+        "ID": "2",
+        "Birthday": "12.11.1947",
+        "Examination_date": "04.04.2016",
+        "Referral_data": "Has been experiencing cough and shortness of breath for about 2 years. Dampness and mold at home. Farm - pigeons, chickens, rabbits, hay.",
+        "Description": "Lungs with heterogeneous attenuation coefficient, with diffuse irregular ground-glass opacities creating a mosaic pattern in the upper parts and with more pronounced density increase in the dorsal parts, mainly in the lower lobes. Small, few band-like scar-atelectatic consolidations in the lingula and above the diaphragm. Additionally, in the lower lobes, several air spaces - emphysematous bullae up to 13mm in size. Few small peripheral nodules in the lungs up to 5mm in size. Diaphragm slightly elevated, especially on the left side - volume of the lower lobes, particularly the left one, reduced. Mediastinal lymph nodes not enlarged. Heart enlarged. No signs of pulmonary hypertension detected.",
+        "Radiologist_diagnosis": "HP (hypersensitivity pneumonitis).",
+        "Final_diagnosis": "HP (hypersensitivity pneumonitis)."
+    },
+    {
+        "ID": "3",
+        "Birthday": "07.07.1973",
+        "Examination_date": "20.03.2013",
+        "Referral_data": "Rheumatoid arthritis (RA).",
+        "Description": "In the parahilar regions of both lungs and subdiaphragmatically in the tenth segments, there are fairly extensive areas of reticular consolidations with a honeycomb pattern, with marked thickening of interlobular and intralobular septa and overlapping ground-glass opacities. Additionally, in the middle lobe at the border of segments IV and V, there is a subpleural nodule measuring 6mm; above it, a smaller irregular nodule of 4mm peripherally. Otherwise, a normal appearance of lung parenchyma and bronchial tree branches is observed. No enlarged lymph nodes are visible in the mediastinum. Osteoporosis. Fracture of the superior endplates of Th5-Th7 characterized by Schmorl's nodes.",
+        "Radiologist_diagnosis": "The image of changes in the course of active interstitial fibrosis. In the diagnosis, fibrosis in the course of RA should be considered, but due to the location of the changes, other causes cannot be excluded - e.g., previous mediastinal irradiation.",
+        "Final_diagnosis": "Interstitial fibrosis in the course of RA."
+    },
+    {
+        "ID": "4",
+        "Birthday": "23.10.1961",
+        "Examination_date": "29.10.2014",
+        "Referral_data": "Dyspnea.",
+        "Description": "Bilateral lung imaging shows marked thickening of the septal lines (interlobular and intralobular), reticular opacities, and diffuse ground-glass opacities primarily located along the vascular-bronchial bundles, especially in the lower lobes, with traction bronchiectasis in the subdiaphragmatic regions. Accompanying irregular and band-like opacities, particularly in the middle lobe and in the left segments IX and X - bands of atelectasis. Additionally, the lungs exhibit features of panlobular emphysema, especially in the upper regions. Numerous lymph nodes are visible in the mediastinum, with a short axis up to 9mm (the largest right lower paratracheal node measuring 9x13mm).",
+        "Radiologist_diagnosis": "Features of interstitial fibrosis (most likely active) - of the NSIP type (nonspecific interstitial pneumonia), drug-induced changes cannot be excluded.",
+        "Final_diagnosis": "Eosinophilic pneumonia."
+    },
+    {
+        "ID": "5",
+        "Birthday": "14.10.1980.",
+        "Examination_date": "17.04.2025.",
+        "Referral_data": "Patient with newly diagnosed advanced HIV infection.",
+        "Description": "The lung image is dominated by interstitial changes characterized by diffuse ground-glass opacities currently located mainly in the upper lobes, predominantly in the central and perihilar regions, with relative sparing of the peripheral, subpleural parts of the lungs. Features of centrilobular emphysema, as well as thickening of interlobular and intralobular septa, locally giving a \"crazy paving\" appearance. Less pronounced areas of ground-glass opacity and nodular consolidations with ground-glass density, as well as thickening of inter- and intralobular septa, are visible in the lower lobes and the middle lobe of the right lung. A small area of atelectasis in segment 8 of the right lung. Small linear consolidations in the middle lobe of the right lung and the lingular segment of the left lung - post-inflammatory/scarring. Subtle thickening of bronchial walls in the upper lobes. No signs of pneumothorax were observed. Pleural cavities free of fluid. No enlarged mediastinal lymph nodes were found in the non-contrast study (limited assessment). Heart not enlarged. Physiological amount of fluid in the pericardial sac. Large thoracic vessels not dilated. Thyroid gland with elongated left lobe, heterogeneous - for ultrasound control. Bony parts of the chest included in the study without suspicious focal changes, with initial degenerative changes of the included spine segment.",
+        "Radiologist_diagnosis": "The image of interstitial lung changes is typical for Pneumocystis jirovecii infection.",
+        "Final_diagnosis": "Pneumocystis jirovecii infection."
+    },
+    {
+        "ID": "6",
+        "Birthday": "02.02.1993",
+        "Examination_date": "28.02.2024",
+        "Referral_data": "31-year-old patient with psoriasis (previously treated with, among others, cyclosporine, methotrexate), asthma.",
+        "Description": "No pneumothorax or fluid was visualized. Segmental bronchi to the upper and lower lobes (of both lungs) are segmentally dilated, filled with hyperdense content, changes most pronounced in the apical segment on the right side, with retained hyperdense content in an area measuring approximately 13x23 mm and slightly smaller in segment 8 bilaterally. Additionally, bronchi with thickened walls. Small pleural thickenings at the apices. Numerous small nodular consolidations of the tree-in-bud type adjacent to the bronchi. Numerous, small, non-enlarged mediastinal lymph nodes. The heart is not enlarged, without increased fluid in the pericardial sac. No signs of pulmonary circulation congestion were revealed. The thoracic aorta and pulmonary trunk are not dilated. Loss of physiological kyphosis and slight left convex thoracic scoliosis. Small, multilevel degenerative changes in the thoracic spine. Adrenals without nodular changes.",
+        "Radiologist_diagnosis": "Bronchopulmonary aspergillosis.",
+        "Final_diagnosis": "Bronchopulmonary aspergillosis."
+    },
+    {
+        "ID": "7",
+        "Birthday": "18.04.1952",
+        "Examination_date": "09.06.2015",
+        "Referral_data": "Weight loss. Dyspnea.",
+        "Description": "In the dorsal parts of the lungs, mainly in the lower lobes, numerous linear and band-like septal and non-septal consolidations are visible along the course of the vascular-bronchial bundles, forming a reticular pattern. In segments VI and X of the right lung and segment V of the left lung, there are small subpleural and peribronchial consolidations against the background of changes; locally, slight widening of the lumen of individual bronchi is visible. Few small nodules up to 5mm, mainly in the upper lobe of the right lung. Band-like scar-atelectatic consolidation in segment II of the right lung along the horizontal fissure with its segmental thickening. In the apex of the left lung, small scar changes. Mediastinal lymph nodes not enlarged. Heart not enlarged. Small sliding hiatal hernia.",
+        "Radiologist_diagnosis": "Interstitial lung fibrosis - UIP (usual interstitial pneumonia) cannot be excluded.",
+        "Final_diagnosis": "NSIP (nonspecific interstitial pneumonia)"
+    },
+    {
+        "ID": "8",
+        "Birthday": "07.04.1980",
+        "Examination_date": "11.04.2024",
+        "Referral_data": "Periodic paroxysmal cough, expectorates clear sputum. Works in a printing house. Cat for a long time. Brother suffers from pulmonary fibrosis.",
+        "Description": "Numerous small ground-glass opacities occupying the central parts of the pulmonary lobules, located in the apices and upper parts of the lungs, sparing the basal parts. Small pleural thickenings at the apices. Otherwise, the lung parenchyma shows no focal changes. No pleural effusion detected. No enlarged mediastinal lymph nodes detected. Heart not enlarged. Pulmonary trunk and thoracic aorta not dilated. Features of past ossification disorders in the thoracic spine.",
+        "Radiologist_diagnosis": "HP (hypersensitivity pneumonitis).",
+        "Final_diagnosis": "Interstitial lung disease in the course of systemic connective tissue disease."
+    },
+    {
+        "ID": "9",
+        "Birthday": "15.08.1967",
+        "Examination_date": "04.06.2025",
+        "Referral_data": "Sarcoidosis. Reflux. NT",
+        "Description": "Consolidation in segment 1/2 of the left lung measuring 34x26x30mm, with bands extending to the pleura. Solid consolidations also visible in segment 8 of the left lung measuring 7mm and 6mm (subpleural), in segment 4 measuring 5mm, and in segment 6 measuring 7mm (peribronchial). Additionally, progression of perilymphatic micronodular changes in segment 2 of the right lung, segment 8 of the left lung, and very small changes mainly peripheral in the upper lobes. Otherwise, the image is as before. Scattered linear fibrosis and scar changes. Nodule in segment 3 of the right lung 5x6mm, stationary. Mediastinal lymph nodes not enlarged, some currently contain small, punctate calcifications. The hila have slightly polycyclic contours, as before. Some lymph nodes with small calcifications. Thoracic aorta not dilated. Heart not enlarged. No signs of pneumothorax or fluid in the pleural cavities were observed. Minor degenerative changes in the thoracic spine. Features of generalized bone atrophy. Hemangioma of the L1 vertebral body. Less liver steatosis than previously.",
+        "Radiologist_diagnosis": "Focal change with overlapping changes in the course of sarcoidosis.",
+        "Final_diagnosis": "OP (organizing pneumonia) with overlapping changes in the course of sarcoidosis."
+    },
+    {
+        "ID": "10",
+        "Birthday": "01.01.1957",
+        "Examination_date": "01.08.2024",
+        "Referral_data": "Systemic sclerosis. Pigeon breeder.",
+        "Description": "In both lungs, similarly to the previous examination, scattered, predominantly peripheral ground-glass opacities with thickening of interlobular septa and reticular non-septal opacities are visible. Few subpleural polygonal nodules - primarily lymph nodes, stationary image. In the area of changes, slight traction bronchiectasis is visible, with occasional retention of secretions in the lumen of individual small bronchi. Scattered emphysematous lucencies of the lung parenchyma, few small emphysematous bullae - in the right lung up to 10mm in segment 10, in the left lung up to 16mm in segment 6. Small scar changes at the apices of both lungs and above the diaphragm. No enlarged mediastinal lymph nodes were visualized. No pleural effusion was detected. Degenerative changes in the thoracic spine.",
+        "Radiologist_diagnosis": "NSIP (nonspecific interstitial pneumonia)",
+        "Final_diagnosis": "NSIP (nonspecific interstitial pneumonia)"
+    },
+    {
+        "ID": "11",
+        "Birthday": "07.03.1963",
+        "Examination_date": "22.01.2025",
+        "Referral_data": "Systemic sclerosis.",
+        "Description": "Bilateral reticular opacities in the lung parenchyma, mainly in the subpleural segments, consistent with fibrosis accompanied by areas of \"ground-glass\" opacity - changes occupy approximately 20% of the lung parenchyma. Band-like scar-atelectatic changes in the subpleural segments of both lungs. A small emphysematous bulla with a diameter of 5 mm in segment IX of the left lung. Pleural thickening at the lung apices. Small, multi-locational traction bronchiectasis. No pleural effusion observed. No enlarged lymph nodes observed in the mediastinum. The thoracic aorta is not dilated with small calcifications in the wall. Calcifications in the coronary artery topography. The heart is not enlarged, pericardium without increased fluid. Small, multilevel degenerative changes and slight right convex scoliosis of the thoracic spine. Bone structures included in the examination without suspicious focal changes.",
+        "Radiologist_diagnosis": "NSIP (nonspecific interstitial pneumonia) in the course of systemic sclerosis.",
+        "Final_diagnosis": "fNSIP (fibrosing nonspecific interstitial pneumonia) in the course of systemic sclerosis."
+    },
+    {
+        "ID": "12",
+        "Birthday": "18.07.1951",
+        "Examination_date": "06.02.2025",
+        "Referral_data": "Hemoptysis. Status post pneumonia and COVID. History of tuberculosis (1978). Bronchiectasis. COPD.",
+        "Description": "Thickening of the bronchial walls of the left lower lung lobe was visualized, including complete closure of the bronchus for segment 6 in the initial section and significant narrowing of the bronchial lumen for the basal segments, as well as less pronounced changes in segmental bronchi 8-10. Additionally, in segments 6 and 10L and to a lesser extent in segment 5L, peribronchial opacities of ground-glass and more solid consolidations are visible, merging peripherally into larger infiltrates - the largest in segment 10 subpleurally over an area measuring approximately 27x17mm, partially solid, partially with ground-glass opacity. Spiculated nodular changes in segment 2R measuring approximately 7x6mm and in segment 1+2L measuring approximately 14x7mm. Furthermore, several small stable nodular changes were visualized in the lung parenchyma, some with calcifications, and scattered emphysematous bullae most pronounced in the apical parts of the lungs. Subdiaphragmatically in the dorsal parts of the lungs, small reticular opacities are distinguished, with small areas of honeycombing. Pleural thickenings at the apices. Pleural cavities free of fluid. No enlarged mediastinal lymph nodes were found. Calcified atherosclerotic plaques in the walls of arterial vessels, including coronary arteries. Bony structures of the chest included in the examination without suspicious focal changes. Degenerative changes of the visualized section of the spine.",
+        "Radiologist_diagnosis": "inflammatory changes.",
+        "Final_diagnosis": "squamous cell lung cancer"
+    },
+    {
+        "ID": "13",
+        "Birthday": "09.07.1969",
+        "Examination_date": "22.05.2025",
+        "Referral_data": "Patient transferred from the Emergency Department due to sepsis, with pneumonia, after initial fluid resuscitation and initiation of antibiotic therapy.",
+        "Description": "Fluid in the right pleural cavity with a width of 11mm; in contact with the fluid, in the right lower lobe, there are infiltrative-atelectatic changes. The lumen of the main bronchus and lobar bronchi is partially obstructed, filled with frothy secretions; the bronchi of the lower and middle lobes are also obstructed. In the right upper lobe, paravertebrally, at the border of segments 1P and 2P, an enhancing consolidation measuring 32x28x45mm with a centrally located cavity is visible. Surrounding it, there is a marked thickening of the septal and non-septal lines with destruction of the stromal architecture, formation of small emphysematous air spaces up to 10mm in diameter, with slight bronchiectasis and ground-glass opacities in the vicinity. Nodular changes up to 7mm in diameter are also visible. Features of centrilobular emphysema - bullae up to 6mm in diameter. No pneumothorax observed. The left pleural cavity is free of fluid. The trachea and left lung bronchus are patent. Several borderline lymph nodes measuring up to 9-10mm in short axis. No enlarged mediastinal or hilar lymph nodes were found. The heart is not enlarged. Physiological amount of fluid in the pericardial sac. Other vascular structures of the chest are within normal width. Generalized rarefaction of bone structure. Bony parts of the chest included in the examination without suspicious focal changes.",
+        "Radiologist_diagnosis": "necrotic neoplastic change with superimposed infectious changes.",
+        "Final_diagnosis": "bacterial pneumonia."
+    },
+    {
+        "ID": "14",
+        "Birthday": "13.12.1949",
+        "Examination_date": "16.01.2024",
+        "Referral_data": "Diagnosis of cachexia.",
+        "Description": "Apical pleural thickening. Reduced volume of the left lung. In the upper lobe of the left lung, involving segment 6 of the lower lobe, a solid infiltration measuring 47x43x89mm is visible. Smaller infiltrations are visible subdiaphragmatically on the left. Additionally, peripheral areas in the lower lobe and lingula show a honeycomb pattern and smaller parenchymal consolidations. Interlobular septal thickening in the apices - more pronounced on the left side. In the upper lobe of the right lung, confluent nodular consolidations and ground-glass opacities are present. No pleural effusion is observed. A left paratracheal lymph node package measuring 22x13mm, and a right hilar node measuring 21x12mm. In the upper mediastinum on the left side, a lymph node measuring 15x9mm. Small calcifications in the mediastinal and hilar lymph nodes. The mediastinum is shifted to the left side. Degenerative changes in the spine with increased thoracic kyphosis.",
+        "Radiologist_diagnosis": "suspicion of neoplastic disease.",
+        "Final_diagnosis": "MOTT infection (non-tuberculous mycobacteria)."
+    },
+    {
+        "ID": "15",
+        "Birthday": "23.01.1979",
+        "Examination_date": "05.06.2025",
+        "Referral_data": "SLE",
+        "Description": "In the apex of the right lung, in segment 2P, a nodular enhancing lesion is visible, measuring 47 \u00d7 29 \u00d7 50mm. Bilaterally in the lower lobes, peripherally, subpleurally, there are areas of ground-glass opacities, which basally transition into somewhat larger, partially confluent consolidations. The lungs show features of moderately severe centrilobular emphysema, most pronounced in the upper and middle parts, with accompanying paraseptal emphysema and pleural thickening at the apices. Apart from the aforementioned, the appearance of the lung parenchyma and the branching of the tracheobronchial tree are within normal limits. An anatomical variant in the form of an additional, partial fissure separating the lingula of the left upper lobe. No enlarged lymph nodes were found in the mediastinum. No fluid was found in the pleural cavities or increased fluid in the pericardial sac. The heart is not enlarged. The thoracic aorta, pulmonary trunk, and pulmonary arteries are not dilated. Slight S-shaped curvature of the thoracic spine. Minor degenerative changes in the thoracic spine.",
+        "Radiologist_diagnosis": "Lung cancer",
+        "Final_diagnosis": "Actinomycosis"
+    },
+    {
+        "ID": "16",
+        "Birthday": "08.11.1958",
+        "Examination_date": "15.09.2025",
+        "Referral_data": "For about 2-3 months, worsening of general well-being, edema of the lower limbs (asymmetrical R>L), limitation of exercise tolerance.",
+        "Description": "In the lower and middle parts of the lungs, post-inflammatory atelectatic-fibrotic bands, ground-glass opacities, and peribronchial consolidations, additionally bronchiectasis, particularly on the left in segments 9, 10. In the dorsal parts of the lungs, reactive pleural thickening. No fluid in the pleural cavities was found. No enlarged mediastinal and hilar lymph nodes were found. The thoracic aorta is not dilated. The heart is not enlarged. Trace fluid in the pericardial sac. Small calcifications of the aorta, coronary arteries. Hiatal hernia. Degenerative changes in the thoracic spine, slight retrolisthesis of Th11, 12.",
+        "Radiologist_diagnosis": "Inflammatory changes in the course of infection",
+        "Final_diagnosis": "OP (organizing pneumonia)"
+    },
+    {
+        "ID": "17",
+        "Birthday": "23.07.1951",
+        "Examination_date": "26.09.2025",
+        "Referral_data": "Systemic lupus erythematosus - cutaneous-articular form, antiphospholipid syndrome, status post bladder cancer treatment.",
+        "Description": "In the left oblique fissure, small nodules - primarily lymph nodes. Bilateral pleural thickening at the lung apices with band-like atelectatic-fibrotic changes. Ground-glass opacities in segments 2, 3 of the right lung, 3, 5 of the left lung, and basal segments with slight subpleural thickening of interlobular septa. Narrow zone of fibrosis in segment 9 of the right lung. No pleural pneumothorax observed. Pleural cavities free of fluid. Trachea and bronchi patent. Right lower paratracheal lymph node enlarged to 10mm, other mediastinal lymph nodes prominent but do not meet radiological criteria for enlargement. Assessment of hilar lymph nodes difficult - examination without contrast. Cardiac silhouette not enlarged. Physiological volume of fluid in the pericardial sac. Vascular structures of the chest within normal limits. Small calcifications in the wall of the descending aorta. Degenerative changes of a syndesmophyte nature in the thoracic spine segment Th7-10. At the edge of the examination, a lesion with the appearance of a hemangioma in the L2 vertebral body, similar in Th12 and Th9. Otherwise, the bony parts of the chest included in the examination show no suspicious focal changes. Absence of the thyroid gland in the typical location. Fatty infiltration and enlargement of the liver.",
+        "Radiologist_diagnosis": "NSIP (nonspecific interstitial pneumonia)",
+        "Final_diagnosis": "NSIP (nonspecific interstitial pneumonia)"
+    },
+    {
+        "ID": "18",
+        "Birthday": "03.02.1969",
+        "Examination_date": "03.01.2025",
+        "Referral_data": "Dermatomyositis MDA5-positive.",
+        "Description": "Coalescing subpleural bands with thickening of interlobular and intralobular septa, accompanied by fibrosis and traction bronchiectasis (without visible retained secretions), surrounding areas of ground-glass opacities. Numerous lymph nodes are identified within the mediastinum and hila, including an enlarged right hilar node (approximately 14 mm in short axis) and a cluster of periesophageal lymph nodes (approximately 10 mm in short axis). Other mediastinal and hilar lymph nodes are <10 mm in short axis. Small atherosclerotic calcifications in the walls of arterial vessels, otherwise vascular structures of the chest are normal. Bony structures of the chest included in the examination show no suspicious focal changes.",
+        "Radiologist_diagnosis": "UIP (usual interstitial pneumonia)",
+        "Final_diagnosis": "fNSIP (fibrotic nonspecific interstitial pneumonia)"
+    },
+    {
+        "ID": "19",
+        "Birthday": "25.01.1964",
+        "Examination_date": "05.08.2024",
+        "Referral_data": "Interstitial lung disease",
+        "Description": "Peripherally in the lung parenchyma, mainly basally, reticular changes and ground-glass opacities. Within the changes, traction bronchiectasis is observed. Reduced volume of the lower lobes of the lungs and the right middle lobe. Slight linear scar-like and atelectatic changes basally, in the middle lobe and lingula. Stationary pulmonary nodules: segment 3 right 6mm, segment 6 right 7mm, segment 9 right 6mm, segment 10 left subpleural 7mm. No signs of pneumothorax or pleural effusion were revealed. Mediastinal lymph nodes are not enlarged. The heart is not enlarged, without increased fluid in the pericardial sac. No signs of pulmonary circulation congestion were revealed. The thoracic aorta is not dilated. Slight degenerative changes in the thoracic spine.",
+        "Radiologist_diagnosis": "NSIP (nonspecific interstitial pneumonia)",
+        "Final_diagnosis": "fNSIP (fibrotic nonspecific interstitial pneumonia)"
+    },
+    {
+        "ID": "20",
+        "Birthday": "10.11.1946",
+        "Examination_date": "28.08.2025.",
+        "Referral_data": "Cough present for 2-3 years, with exacerbation in the last 3-4 months, mainly in the morning hours. Expectorates clear sputum. Denied hemoptysis, chest pain, exercise intolerance, stable body weight. Denied exposure to factors that could potentially cause interstitial lung changes.",
+        "Description": "Reticular changes with bronchiectasis located subpleurally with a predilection for the lower lobes. The changes are accompanied by ground-glass opacities. Bronchial lumen dilation of the right lung and the lower lobe and lingula of the left lung, most pronounced in the subsegmental areas. Otherwise, the lung parenchyma is normally aerated, without focal changes. Pleural cavities free of fluid. Trachea and bronchi patent. No enlarged mediastinal and hilar lymph nodes detected. Heart not enlarged. Physiological amount of fluid in the pericardial sac. Thoracic aorta not dilated. Severe calcifications of the coronary arteries. Moderately advanced degenerative changes of the thoracic spine. Multilevel irregularities of the vertebral endplates. Otherwise, the bony structures of the chest included in the examination show no suspicious focal changes.",
+        "Radiologist_diagnosis": "probable UIP (usual interstitial pneumonia)",
+        "Final_diagnosis": "IPF (idiopathic pulmonary fibrosis)"
+    },
+    {
+        "ID": "22",
+        "Birthday": "11.10.1949",
+        "Examination_date": "19.08.2025",
+        "Referral_data": "Diagnostics for antisynthetase syndrome and interstitial changes.",
+        "Description": "Bilaterally, mainly in the peripheral parts of the lower lung lobes, there are symmetrical thickening of the septal lines with overlapping reticular and micronodular consolidations and adjacent 'ground glass' areas; within the changes, subtle traction bronchiectasis is visible. Bilaterally in segments 2 and 1/2, small calcified subpleural nodules. A partially calcified subpleural nodule is also visible in segment 4 of the right lung. Pleural cavities free of fluid. No enlarged mediastinal lymph nodes were found. Heart not enlarged. Physiological amount of fluid in the pericardial sac. Calcified atherosclerotic plaques in the visible arterial vessels, including coronary arteries. Degenerative changes in the visible section of the spine with deepening of thoracic kyphosis. Small sliding hiatal hernia.",
+        "Radiologist_diagnosis": "fNSIP (fibrosing nonspecific interstitial pneumonia)",
+        "Final_diagnosis": "fNSIP (fibrosing nonspecific interstitial pneumonia)"
+    },
+    {
+        "ID": "23",
+        "Birthday": "29.08.1975",
+        "Examination_date": "01.07.2016",
+        "Referral_data": "Disseminated changes in the lungs of unclear etiology.",
+        "Description": "The examination revealed numerous scattered and occasionally confluent small nodular changes with universal localization, predominantly near the vascular-bronchial bundles, most of which show calcifications. Additionally, in both lungs, mainly in the subdiaphragmatic regions, there is slight thickening of the interlobular septa, and in segment 10 of the right lung, near the mediastinum, there is a small heterogeneity of the parenchyma with slight areas of somewhat increased uptake. No enlarged lymph nodes were observed in the mediastinum.",
+        "Radiologist_diagnosis": "Calcified nodules",
+        "Final_diagnosis": "Dendritic diffuse pulmonary ossification"
+    },
+    {
+        "ID": "24",
+        "Birthday": "09.06.1958",
+        "Examination_date": "12.09.2025.",
+        "Referral_data": "Nodular changes in the lungs, follow-up.",
+        "Description": "Reticular changes visible peripherally in the subdiaphragmatic and dorsal parts of the lower lobes and in segments 2R, 4R, and 3L, with traction bronchiectasis accompanying the changes in the lower lobes, lower lobes of reduced volume, small air cysts visible in the posterior costophrenic recesses. In the right lung, several stable small nodular changes up to 5.5 mm in size are visible. Scar-atelectatic bands in the lingula of the left lung and segment 5R, as well as small ones in segment 1R. In segment 10L, pneumatocele measuring 12 and 7 mm. Mediastinal lymph nodes are not enlarged. Calcifications along the course of the coronary arteries and in the aortic arch. Several cysts in the examined fragment of the liver up to 22 mm in size. Degenerative changes in the spine with the presence of Schmorl's nodes within the endplates of the vertebral bodies at multiple levels.",
+        "Radiologist_diagnosis": "UIP (usual interstitial pneumonia)",
+        "Final_diagnosis": "fNSIP (fibrotic nonspecific interstitial pneumonia)"
+    },
+    {
+        "ID": "25",
+        "Birthday": "08.04.1949",
+        "Examination_date": "05.03.2025",
+        "Referral_data": "COPD. Pulmonary emphysema. Chronic nicotine addiction.",
+        "Description": "Airy, peribronchial parenchymal consolidations in both lungs - especially in the upper and middle lobes of the right lung. Small nodular-fibrotic changes at the apices of both lungs - on the right with small calcifications - image of post-tuberculous changes. Otherwise, the lung parenchyma shows no infiltrative changes, no suspicious focal changes. Several small, scattered, nonspecific nodular changes in both lungs up to 3 mm in diameter. Generalized thickening of the bronchial walls persists, with the presence of bronchiectasis in the lower lobes of both lungs, as well as in the lingula of the left lung and in the middle lobe of the right lung, peripherally some of the aforementioned bronchi are filled with fluid content. Features of periseptal emphysema near the mediastinum in the lingula and in segment VI of the left lung. No pneumothorax or pleural effusion is observed. Very numerous, non-enlarged (max up to 10 mm in short axis) mediastinal lymph nodes. The heart is not enlarged, without increased fluid in the pericardial sac. Coronary artery atherosclerosis. The thoracic aorta and pulmonary trunk are not dilated. Atherosclerosis of the thoracic aorta walls. No signs of pulmonary circulation congestion. Deepened kyphosis and slight S-shaped thoracic scoliosis. Small, multilevel degenerative changes in the thoracic spine. Features of slight bone atrophy. Adrenals without nodular changes. The left adrenal gland has a slightly widened outline.",
+        "Radiologist_diagnosis": "bronchiolitis",
+        "Final_diagnosis": "bronchopulmonary aspergillosis"
+    },
+    {
+        "ID": "26",
+        "Birthday": "21.01.1946",
+        "Examination_date": "06.10.2025",
+        "Referral_data": "The patient with bronchial asthma and hypertension was admitted for further diagnostics of changes described in lung imaging studies.",
+        "Description": "On the left in segment 6 of the lung, subpleurally and in connection with the distorted oblique fissure, there is a consolidation approximately 9x18x13mm, with closure of bronchial branches, showing contrast enhancement from 45 to 70 Hounsfield units. In the division of the bronchus to segment 6 of the left lung and its branches, there are stenoses and calcifications. Bilaterally at the lung apices dorsally, there are post-inflammatory pleural layers, with bands of atelectasis and fibrous-nodular changes, additionally emphysematous bullae. On the left in segments 3-5 anteriorly, there are peripheral band-like and reticular fibroses, in segment 9 band-like fibroses, near segment 10 a diaphragmatic hernia of fatty tissue. On the right in segment 4, a calcification of 6mm in diameter, most likely post-tuberculous. Bronchi with wall thickening and secretion retention as in inflammation. No enlarged mediastinal and hilar lymph nodes were found. The thoracic aorta is not dilated. Calcifications of the aorta, arch branches, and coronary arteries. Hiatal hernia. In the thyroid isthmus, a nodule of 8mm in diameter. In the thoracic spine, right convex scoliosis, degenerative changes, rightward spondylolisthesis of Th12. Bone atrophy. Indentations of the upper plates of Th4-6 on the basis of atrophy.",
+        "Radiologist_diagnosis": "Post-inflammatory change",
+        "Final_diagnosis": "Lung cancer"
+    },
+    {
+        "ID": "27",
+        "Birthday": "30.04.1959",
+        "Examination_date": "04.10.2025",
+        "Referral_data": "Squamous cell carcinoma of the larynx - post-operative state.",
+        "Description": "In segment 1 of the right lung, a spiculated nodule measuring 16x10 mm is visible with disruption of the architecture of the surrounding parenchyma and surrounding the lesion are fibrotic bands and numerous smaller nodules, predominantly in a perilymphatic distribution. Additionally, numerous small nodules are visible in both lungs, mainly in the upper parts and subpleurally, some calcified, also in a perilymphatic distribution. In places, slight thickening of the interlobular septa is visible. Fibronodular layering in the pleural apices. Numerous lymph nodes of both hila and mediastinum are visible, measuring up to approximately 10-11 mm in short axis (borderline), with calcifications within the hila. Several asymmetrical prominent right supraclavicular lymph nodes measuring up to 9 mm in short axis. The thoracic aorta and pulmonary trunk are not dilated. No pleural effusion was revealed.",
+        "Radiologist_diagnosis": "pneumoconiosis",
+        "Final_diagnosis": "pneumoconiosis"
+    },
+    {
+        "ID": "28",
+        "Birthday": "16.09.1955",
+        "Examination_date": "20.05.2025",
+        "Referral_data": "The patient after treatment for left-sided pleuropneumonia. Auscultation unremarkable.",
+        "Description": "In the lower lobe of the left lung (segment 8/9), an oval infiltrate measuring 46x45x58 mm is visible, showing post-contrast enhancement with a central dense fluid area measuring 43x24 mm with gas bubbles. From the infiltrate towards the hilum, there are streaky consolidations. At the level of the lesion in the left pleural cavity, a trace of fluid. In both lungs, single nodules up to 2-3 mm - non-specific. The right pleural cavity is free of fluid. Calcifications in the mediastinal and hilar lymph nodes. No enlarged mediastinal and hilar lymph nodes were found. The thoracic aorta and pulmonary trunk are not dilated. Atherosclerosis of the aorta and coronary arteries. The heart is not enlarged, without increased fluid in the pericardial sac. No pleural effusion was found. Bone structures included in the examination without suspicious focal changes. Multilevel degenerative changes of the thoracic spine. Sliding hiatal hernia - a significant portion of the stomach displaced into the thoracic cavity. Gallbladder with irregular contours, with a heterogeneous area of 27 mm in diameter, a possible poorly calcified stone - to be assessed in ultrasound. Complicated cyst of the left kidney, 10 mm in diameter.",
+        "Radiologist_diagnosis": "abscess",
+        "Final_diagnosis": "abscess"
+    },
+    {
+        "ID": "29",
+        "Birthday": "05.03.1955",
+        "Examination_date": "23.09.2025",
+        "Referral_data": "Other interstitial lung diseases. Follow-up examination.",
+        "Description": "Lungs with the presence of numerous small thin-walled air spaces up to 2 cm in size; changes are most pronounced in the upper parts, where a thick reticular pattern is locally visible. Additionally, there are a few band-like consolidations - scar-like. Subdiaphragmatically on the left side, a single small calcification (2 mm), small calcifications are also visible within the band-like subpleural changes in the right lower lobe near the lateral chest wall. No enlarged lymph nodes were visualized in the mediastinum. Nodular calcifications in the left hilum. Calcifications along the aorta and coronary arteries. Prominent osteophytes in the lower thoracic spine.",
+        "Radiologist_diagnosis": "Histiocytosis",
+        "Final_diagnosis": "Histiocytosis"
+    },
+    {
+        "ID": "30",
+        "Birthday": "22.04.1985",
+        "Examination_date": "24.09.2025",
+        "Referral_data": "40-year-old patient with polycythemia, Goodpasture's syndrome.",
+        "Description": "Numerous disseminated small nodular interlobular and perivascular changes with the presence of small ground-glass opacities, predominantly in the lower and middle parts of the lungs. Pulmonary parenchyma without suspicious focal changes, with small, band-like scar-atelectatic changes basally. No pneumothorax or pleural effusion is observed. Trachea, main bronchi, and lobar bronchi are patent. Mediastinal lymph nodes are not enlarged. Heart is not enlarged, physiological amount of fluid in the pericardial sac. Small, calcified atherosclerotic plaques in the coronary arteries. Thoracic aorta and pulmonary trunk are not enlarged. No signs of pulmonary circulation congestion. Small, multilevel degenerative changes in the thoracic spine. Adrenals without nodular changes.",
+        "Radiologist_diagnosis": "HP (hypersensitivity pneumonitis)",
+        "Final_diagnosis": "HP (hypersensitivity pneumonitis)"
+    },
+    {
+        "ID": "31",
+        "Birthday": "17.08.1972",
+        "Examination_date": "25.09.2025",
+        "Referral_data": "For several months, respiratory tract infections, periodic dyspnea, sensation of postnasal drip, history of exposure to hay, horse manure, dust.",
+        "Description": "In segment 2P, an area of ground-glass opacities; a similar area in segment 1/2L and paratracheally in segment 3P. Atelectasis in segment 4P. Area of atelectatic-bronchiectatic changes at the base of the lingula. Bronchi to this segment are segmentally obstructed. Bilaterally in the lower lobes and in the right middle lobe, in images taken during expiration, areas of increased lung tissue transparency corresponding to air trapping areas persist. No pleural pneumothorax was visualized. Pleural cavities free of fluid. Trachea and bronchi patent. No enlarged mediastinal and hilar lymph nodes were found. Heart not enlarged. Physiological amount of fluid in the pericardial sac. Vascular structures of the chest within normal limits. Bony structures of the chest included in the examination without suspicious focal changes.",
+        "Radiologist_diagnosis": "HP (hypersensitivity pneumonitis)",
+        "Final_diagnosis": "HP (hypersensitivity pneumonitis)"
+    },
+    {
+        "ID": "32",
+        "Birthday": "08.03.1959",
+        "Examination_date": "12.08.2025",
+        "Referral_data": "patient with acute myeloid leukemia, in neutropenia - baseline assessment for extramedullary organ involvement.",
+        "Description": "In both lungs, very numerous, disseminated nodular opacities have appeared, predominantly small, and quite numerous nodules, the largest in the right upper lobe measuring up to 12mm. In the lower lobes bilaterally, supradiaphragmatic and subpleural areas of consolidation are visible, on the right side measuring 36 x 22mm, on the left approximately 26 x 12mm. Additionally, extensive areas of ground-glass opacity are visible mainly in the perihilar regions of the lungs. A trace of fluid has appeared in the pleural cavities, up to 5mm thick on the right side. In segment 10L, supradiaphragmatic and paravertebral band-like scar-atelectatic changes. Trachea and bronchi are patent. No enlarged mediastinal lymph nodes were found. Assessment of the lymph nodes without intravenous contrast administration is non-diagnostic. Heart is enlarged. Physiological amount of fluid in the pericardial sac. Thoracic aorta with calcified atherosclerotic plaques. Otherwise, vascular structures of the chest in the study without contrast administration are normal. Thyroid is not enlarged, with homogeneous shading. In the visible parts of the epigastrium: fatty liver (with shading approx. 30 Hounsfield units), spleen enlarged to approx. 14cm in bipole dimension. Sliding hiatal hernia.",
+        "Radiologist_diagnosis": "fungal pneumonia",
+        "Final_diagnosis": "fungal pneumonia"
+    },
+    {
+        "ID": "33",
+        "Birthday": "04.07.1981",
+        "Examination_date": "27.08.2025",
+        "Referral_data": "tumor of the left lung and mediastinum.",
+        "Description": "Extensive tumor within the upper lobe of the left lung and anterior mediastinum, with mainly peripheral post-contrast enhancement, measuring 18 x 8.8 x 11.5 cm, infiltrating the pulmonary trunk and left pulmonary artery as well as the left subclavian vein and pericardial sac, adhering over a long segment to the aortic arch. The tumor also polycyclically models segment V of the right lung. Width of the right pulmonary artery is 13 mm, intermediate artery 11 mm. Higher positioning of the left diaphragm dome with minor atelectatic changes of the left lower lobe in contact with the diaphragm. Lungs otherwise normally aerated without other focal changes. Trachea and main bronchi patent. Heart not enlarged. Right pleura free of fluid. Stenosis of the celiac trunk by the arcuate ligament of the diaphragm with its post-stenotic ectasia.",
+        "Radiologist_diagnosis": "Lymphoma",
+        "Final_diagnosis": "Lymphoma"
+    },
+    {
+        "ID": "34",
+        "Birthday": "08.04.1982",
+        "Examination_date": "14.08",
+        "Referral_data": "Patient infected with HIV, after discontinuation of treatment.",
+        "Description": "In both lungs, intensified changes are visible in the form of: - diffuse ground-glass opacities - reticulonodular consolidations, with areas merging into larger consolidations. Changes are most pronounced in the right lower lobe and in the apical parts of both lungs. No pleural pneumothorax is observed. Pleural cavities are free of fluid. Trachea and main bronchi are patent. No enlarged mediastinal lymph nodes are detected. Heart is not enlarged. Physiological amount of fluid in the pericardial sac. Thoracic aorta is not dilated.",
+        "Radiologist_diagnosis": "PCP (Pneumocystis pneumonia)",
+        "Final_diagnosis": "PCP (Pneumocystis pneumonia)"
+    },
+    {
+        "ID": "35",
+        "Birthday": "15.01.1979",
+        "Examination_date": "25.05.2022",
+        "Referral_data": "Granulomatosis with vasculitis.",
+        "Description": "No signs of pneumothorax or pleural effusion. Numerous patchy areas with a ground-glass opacity appearance, primarily centrally distributed; to a lesser extent subpleural, scattered in the parenchyma of both lungs, predominantly on the left side compared to the right; the changes are accompanied by increased interstitial markings, mainly of a reticular pattern and thickening of the septal lines. Scattered air cysts within both lungs as in previous examinations. The outlines of the mediastinal structures are not widened. The thoracic aorta is not widened. The heart is not enlarged, with no increased amount of fluid in the pericardial sac. Degenerative changes in the thoracic vertebrae, mainly at the level of the lower segments.",
+        "Radiologist_diagnosis": "Alveolar hemorrhage",
+        "Final_diagnosis": "Alveolar hemorrhage"
+    }
+]

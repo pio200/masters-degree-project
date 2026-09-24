@@ -1,0 +1,13 @@
+openai
+opensearch-py
+pdf2image
+Pillow
+pydantic
+python-dotenv
+langchain langchain-text-splitters
+sentence-transformers  # darmowe embeddingi lokalne
+langchain-huggingface  # LangChain + HF
+langchain-experimental  # SemanticChunker
+langchain-huggingface    # HuggingFaceEmbeddings
+sentence-transformers    # embeddingi lokalne
+pymupdf
