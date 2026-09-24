@@ -1,5 +1,6 @@
 openai
 opensearch-py
+streamlit
 pdf2image
 Pillow
 pydantic
