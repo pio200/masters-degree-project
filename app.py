@@ -7,11 +7,19 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from opensearchpy import OpenSearch
 
+from utils.embeddings import LocalEmbedder
+
 
 load_dotenv()
 
-OPENSEARCH_INDEX = os.getenv("OPENSEARCH_INDEX", "os-index")
+OPENSEARCH_INDEX = os.getenv("OPENSEARCH_INDEX", "os-index-knn")
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o")
+KNN_FIELD = os.getenv("OPENSEARCH_KNN_FIELD", "embedding")
+
+
+@st.cache_resource
+def get_local_embedder() -> LocalEmbedder:
+    return LocalEmbedder()
 
 
 def get_opensearch_client() -> OpenSearch:
@@ -35,19 +43,47 @@ def get_opensearch_client() -> OpenSearch:
     )
 
 
-def search_evidence(query: str, size: int = 8) -> List[Dict[str, Any]]:
-    """Find the most relevant indexed passages for the doctor's description."""
+def get_query_embedding(query: str) -> List[float]:
+    return get_local_embedder().encode([query])[0]
+
+
+def search_evidence(
+    query: str, size: int = 8, search_method: str = "content^3"
+) -> List[Dict[str, Any]]:
+    """Find relevant indexed passages using the selected OpenSearch strategy."""
+    if search_method == "more-like-this":
+        search_query = {
+            "more_like_this": {
+                "fields": ["content"],
+                "like": query,
+                "min_term_freq": 1,
+                "min_doc_freq": 1,
+                "max_query_terms": 25,
+            }
+        }
+    elif search_method == "kNN":
+        search_query = {
+            "knn": {
+                KNN_FIELD: {
+                    "vector": get_query_embedding(query),
+                    "k": size,
+                }
+            }
+        }
+    else:
+        search_query = {
+            "multi_match": {
+                "query": query,
+                "fields": ["content^3", "title"],
+                "type": "best_fields",
+            }
+        }
+
     response = get_opensearch_client().search(
         index=OPENSEARCH_INDEX,
         body={
             "size": size,
-            "query": {
-                "multi_match": {
-                    "query": query,
-                    "fields": ["content^3", "title"],
-                    "type": "best_fields",
-                }
-            },
+            "query": search_query,
         },
     )
     return response.get("hits", {}).get("hits", [])
@@ -125,6 +161,15 @@ def main() -> None:
         height=180,
         placeholder="Example: Well-defined solitary pulmonary nodule in the right upper lobe...",
     )
+    search_method = st.selectbox(
+        "Search method",
+        options=["content^3", "more-like-this", "kNN"],
+        help=(
+            "content^3 uses keyword relevance.  \n"
+            "more-like-this finds documents with similar terms.  \n"
+            "kNN uses local semantic embeddings and requires an embedding field in OpenSearch."
+        ),
+    )
     search_count = st.slider("Reference passages", min_value=3, max_value=12, value=8)
 
     if st.button("Search and generate differential", type="primary", disabled=not description.strip()):
@@ -134,7 +179,11 @@ def main() -> None:
 
         try:
             with st.spinner("Searching radiology references..."):
-                hits = search_evidence(description.strip(), size=search_count)
+                hits = search_evidence(
+                    description.strip(),
+                    size=search_count,
+                    search_method=search_method,
+                )
             if not hits:
                 st.info("No matching passages were found in OpenSearch.")
                 return
